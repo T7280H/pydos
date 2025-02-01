@@ -21,6 +21,8 @@ This program is a DOS emulator written in Python language and has functions, thi
 - `backup`: **Backup the entire file**
 - `restore`: **Return the entire file**
 - `connect`: **Change the your IP**
+- `rd`: **Remove the Dictionary**
+- `pyrun`: **Run the file.py**
 - `exit`: **Exit PyDOS**
 ## Installation
 **Tip:** Create a folder for Pydos
