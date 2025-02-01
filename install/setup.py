@@ -128,7 +128,7 @@ def setup_complete():
     print_slow("-----------------------------", Fore.GREEN)
 
 def main():
-    base_path = "pydos"
+    base_path = "system"
     required_files = [
         "main/system_command.py", "prompt/__init__.py", "prompt/dir.py", "prompt/ver.py", "prompt/exit.py", "prompt/echo.py", "prompt/cls.py", "prompt/rd.py", "prompt/mkdir.py",
         "prompt/dash.py", "prompt/locas.py", "prompt/help.py", "prompt/ping.py", "prompt/edit.py", "prompt/connect.py", "prompt/cd.py", "prompt/backup.py", "prompt/restore.py",
