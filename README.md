@@ -23,6 +23,7 @@ This program is a DOS emulator written in Python language and has functions, thi
 - `connect`: **Change the your IP**
 - `rd`: **Remove the Dictionary**
 - `pyrun`: **Run the file.py**
+- `tree`: **Show the Dictionary tree**
 - `exit`: **Exit PyDOS**
 ## Installation
 **Tip:** Create a folder for Pydos
