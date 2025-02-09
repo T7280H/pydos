@@ -1,3 +1,4 @@
+![PyDOS Logo](./IMG/Logo.png)
 ## PyDOS (PYTHON DOS) VERSION 1.0 ALPHA
 This program is a DOS emulator written in Python language and has functions, this program has a new update that will be released on February 2025.
 ## Commands
